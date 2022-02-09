@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\bin\Debug\net6.0\FirstProject.exe
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\bin\Debug\net6.0\FirstProject.deps.json
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\bin\Debug\net6.0\FirstProject.runtimeconfig.json
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\bin\Debug\net6.0\FirstProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\bin\Debug\net6.0\ref\FirstProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\bin\Debug\net6.0\FirstProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\obj\Debug\net6.0\FirstProject.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\obj\Debug\net6.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfo.cs
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\obj\Debug\net6.0\FirstProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\obj\Debug\net6.0\ref\FirstProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\obj\Debug\net6.0\FirstProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\FirstProject\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache

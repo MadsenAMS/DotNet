@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\SecondProject\\SecondProject.csproj",
-      "projectName": "SecondProject",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\SecondProject\\SecondProject.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\ThirdProject\\ThirdProject.csproj",
+      "projectName": "ThirdProject",
+      "projectPath": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\ThirdProject\\ThirdProject.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\SecondProject\\obj\\",
+      "outputPath": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\ThirdProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

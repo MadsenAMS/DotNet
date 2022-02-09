@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\obj\Debug\net6.0\ThirdProject.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\obj\Debug\net6.0\ThirdProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\obj\Debug\net6.0\ThirdProject.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\obj\Debug\net6.0\ThirdProject.AssemblyInfo.cs
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\obj\Debug\net6.0\ThirdProject.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\bin\Debug\net6.0\ThirdProject.exe
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\bin\Debug\net6.0\ThirdProject.deps.json
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\bin\Debug\net6.0\ThirdProject.runtimeconfig.json
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\bin\Debug\net6.0\ThirdProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\bin\Debug\net6.0\ref\ThirdProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\bin\Debug\net6.0\ThirdProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\obj\Debug\net6.0\ThirdProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\obj\Debug\net6.0\ref\ThirdProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\obj\Debug\net6.0\ThirdProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\ThirdProject\obj\Debug\net6.0\ThirdProject.genruntimeconfig.cache

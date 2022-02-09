@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\FirstProject\\PrimeiroProjeto.csproj",
-      "projectName": "PrimeiroProjeto",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\FirstProject\\PrimeiroProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\FirstProject\\FirstProject.csproj",
+      "projectName": "FirstProject",
+      "projectPath": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\FirstProject\\FirstProject.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andre\\source\\repos\\DIO_DotNet\\FirstProject\\obj\\",
       "projectStyle": "PackageReference",

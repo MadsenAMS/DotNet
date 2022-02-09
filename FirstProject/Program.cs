@@ -1,11 +1,13 @@
 ﻿using FirstProject.Models;
 
-public class Program{
+namespace FirstProject{
 
-    public static void Main(String[] args){
-        Person cliente = new Person("Bob Martin", 62);
-        cliente.Presentation();
+    public class Program{
+
+        public static void Main(String[] args){
+            Person cliente = new Person("Bob Martin", 62);
+            cliente.Presentation();
+        }
     }
+
 }
-
-

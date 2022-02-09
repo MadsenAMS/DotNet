@@ -19,4 +19,4 @@ A few .NET exercises using VisualCode for Digital Innovation One's "Object Orien
 
 - FirstProject: A simple object instanciation and method evocation excercise. The original model presented uses getters and setters, but I chose to use a constructor to populate object atributes instead. 
 - SecondProject: An encapsulation excercise for the creation of a rectangle with private attributes and a public method that returns it's area after checking if width and height have valid values. Again, favoured the constructor instead of getters and setters. 
-- ThirdProject: An inheritance exercise which sees the creation of a 'student' class and a 'teacher' class inheriting a few attributes from the 'person' class.
+- ThirdProject: An inheritance exercise which sees the creation of a 'student' class and a 'teacher' class inheriting a few attributes from the 'person' class. Also applies the concept of polimorphism, with different "presentation" methods for each child of 'person'.

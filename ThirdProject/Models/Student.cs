@@ -9,5 +9,10 @@ namespace ThirdProject.Models
             base.age = age;
         }
         public int grade {get; set;}
+
+        public override void Presentation(){
+                        base.Presentation();
+                        Console.WriteLine($"I'm a student, and I scored {grade} on my test.");
+        }
     }
 }

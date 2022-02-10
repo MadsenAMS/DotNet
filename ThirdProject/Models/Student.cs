@@ -4,10 +4,7 @@ namespace ThirdProject.Models
 {
     public class Student : Person
     {
-        public Student(string name, int age){
-            base.name = name;
-            base.age = age;
-        }
+        public Student(string name, int age) : base(name, age){}
         public int grade {get; set;}
 
         public override void Presentation(){

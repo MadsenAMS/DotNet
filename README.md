@@ -22,4 +22,5 @@ A few .NET exercises using VisualCode for Digital Innovation One's "Object Orien
 - ThirdProject: An inheritance exercise which sees the creation of a 'student' class and a 'teacher' class inheriting a few attributes from the 'person' class. Also applies the concept of polimorphism, with different "presentation" methods for each child of 'person'.
 - FourthProject: An abstract class exercise. An abstract 'account' was created with an abstract 'withdraw' method, and standard 'deposit' and 'show balance' methods. Two classes inherit from this class, each with it's own withdraw method, with different fees.
 - FifthProject: A 'File', 'Directory' and 'Path' exercise. Includes directory and file listing, creation, reading, writing, moving, deleting, etc. Including 'writeall' and stream methods.
-- ## Note to Self: Study 'Path.Combine' before using paths in the future.
+
+### Note to Self: Study 'Path.Combine' before using paths in the future.

@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\bin\Debug\net6.0\B_SecondProject.exe
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\bin\Debug\net6.0\B_SecondProject.deps.json
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\bin\Debug\net6.0\B_SecondProject.runtimeconfig.json
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\bin\Debug\net6.0\B_SecondProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\bin\Debug\net6.0\ref\B_SecondProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\bin\Debug\net6.0\B_SecondProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\obj\Debug\net6.0\B_SecondProject.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\obj\Debug\net6.0\B_SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\obj\Debug\net6.0\B_SecondProject.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\obj\Debug\net6.0\B_SecondProject.AssemblyInfo.cs
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\obj\Debug\net6.0\B_SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\obj\Debug\net6.0\B_SecondProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\obj\Debug\net6.0\ref\B_SecondProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\obj\Debug\net6.0\B_SecondProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\B_SecondProject\obj\Debug\net6.0\B_SecondProject.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\obj\Debug\net6.0\E_FifthProject.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\obj\Debug\net6.0\E_FifthProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\obj\Debug\net6.0\E_FifthProject.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\obj\Debug\net6.0\E_FifthProject.AssemblyInfo.cs
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\obj\Debug\net6.0\E_FifthProject.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\bin\Debug\net6.0\E_FifthProject.exe
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\bin\Debug\net6.0\E_FifthProject.deps.json
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\bin\Debug\net6.0\E_FifthProject.runtimeconfig.json
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\bin\Debug\net6.0\E_FifthProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\bin\Debug\net6.0\ref\E_FifthProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\bin\Debug\net6.0\E_FifthProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\obj\Debug\net6.0\E_FifthProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\obj\Debug\net6.0\ref\E_FifthProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\obj\Debug\net6.0\E_FifthProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\E_FifthProject\obj\Debug\net6.0\E_FifthProject.genruntimeconfig.cache

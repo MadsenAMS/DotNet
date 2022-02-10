@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\bin\Debug\net6.0\A_FirstProject.exe
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\bin\Debug\net6.0\A_FirstProject.deps.json
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\bin\Debug\net6.0\A_FirstProject.runtimeconfig.json
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\bin\Debug\net6.0\A_FirstProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\bin\Debug\net6.0\ref\A_FirstProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\bin\Debug\net6.0\A_FirstProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\obj\Debug\net6.0\A_FirstProject.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\obj\Debug\net6.0\A_FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\obj\Debug\net6.0\A_FirstProject.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\obj\Debug\net6.0\A_FirstProject.AssemblyInfo.cs
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\obj\Debug\net6.0\A_FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\obj\Debug\net6.0\A_FirstProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\obj\Debug\net6.0\ref\A_FirstProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\obj\Debug\net6.0\A_FirstProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\A_FirstProject\obj\Debug\net6.0\A_FirstProject.genruntimeconfig.cache

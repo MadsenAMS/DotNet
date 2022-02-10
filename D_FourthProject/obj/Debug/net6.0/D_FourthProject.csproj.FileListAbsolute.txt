@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\bin\Debug\net6.0\D_FourthProject.exe
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\bin\Debug\net6.0\D_FourthProject.deps.json
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\bin\Debug\net6.0\D_FourthProject.runtimeconfig.json
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\bin\Debug\net6.0\D_FourthProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\bin\Debug\net6.0\ref\D_FourthProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\bin\Debug\net6.0\D_FourthProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\obj\Debug\net6.0\D_FourthProject.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\obj\Debug\net6.0\D_FourthProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\obj\Debug\net6.0\D_FourthProject.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\obj\Debug\net6.0\D_FourthProject.AssemblyInfo.cs
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\obj\Debug\net6.0\D_FourthProject.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\obj\Debug\net6.0\D_FourthProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\obj\Debug\net6.0\ref\D_FourthProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\obj\Debug\net6.0\D_FourthProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\D_FourthProject\obj\Debug\net6.0\D_FourthProject.genruntimeconfig.cache

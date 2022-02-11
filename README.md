@@ -6,7 +6,7 @@ A few .NET exercises using VisualCode for Digital Innovation One's "Object Orien
 - Installed .Net.
 - `dotnet new sln --name DIO_DotNet`
 - `dotnet new console`
-- `dotnet sln add .\FirstProject\FirstProject.csproj` (and so on for following projects)
+- `dotnet sln add .\A_FirstProject\A_FirstProject.csproj` (and so on for following projects)
 - `dotnet run` (for testing each project)
 
 ## VSCode Extensions Used 
@@ -22,5 +22,6 @@ A few .NET exercises using VisualCode for Digital Innovation One's "Object Orien
 - ThirdProject: An inheritance exercise which sees the creation of a 'student' class and a 'teacher' class inheriting a few attributes from the 'person' class. Also applies the concept of polimorphism, with different "presentation" methods for each child of 'person'.
 - FourthProject: An abstract class exercise. An abstract 'account' was created with an abstract 'withdraw' method, and standard 'deposit' and 'show balance' methods. Two classes inherit from this class, each with it's own withdraw method, with different fees.
 - FifthProject: A 'File', 'Directory' and 'Path' exercise. Includes directory and file listing, creation, reading, writing, moving, deleting, etc. Including 'writeall' and stream methods.
+- SixthProject: A constructor exercise (creating a singleton class with a private constructor).
 
 ### Note to Self: Study 'Path.Combine' before using paths in the future.

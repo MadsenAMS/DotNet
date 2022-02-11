@@ -6,6 +6,8 @@ namespace G_SeventhProject{
         public delegate void Operation(int x, int y);
 
         public static void Main(string[] args){
+            Battery battery = new Battery();
+
             Operation addition = new Operation(Calculator.Add);
             Operation subtraction = new Operation(Calculator.Subtract);
             Operation multiplication = new Operation(Calculator.Multiply);

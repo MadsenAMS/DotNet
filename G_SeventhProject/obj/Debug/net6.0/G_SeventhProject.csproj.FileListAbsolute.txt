@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\obj\Debug\net6.0\G_SeventhProject.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\obj\Debug\net6.0\G_SeventhProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\obj\Debug\net6.0\G_SeventhProject.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\obj\Debug\net6.0\G_SeventhProject.AssemblyInfo.cs
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\obj\Debug\net6.0\G_SeventhProject.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\bin\Debug\net6.0\G_SeventhProject.exe
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\bin\Debug\net6.0\G_SeventhProject.deps.json
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\bin\Debug\net6.0\G_SeventhProject.runtimeconfig.json
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\bin\Debug\net6.0\G_SeventhProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\bin\Debug\net6.0\ref\G_SeventhProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\bin\Debug\net6.0\G_SeventhProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\obj\Debug\net6.0\G_SeventhProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\obj\Debug\net6.0\ref\G_SeventhProject.dll
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\obj\Debug\net6.0\G_SeventhProject.pdb
+C:\Users\andre\source\repos\DIO_DotNet\G_SeventhProject\obj\Debug\net6.0\G_SeventhProject.genruntimeconfig.cache

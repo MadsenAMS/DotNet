@@ -17,11 +17,11 @@ A few .NET exercises using VisualCode for Digital Innovation One's "Object Orien
 
 ## Projects
 
-- FirstProject: A simple object instanciation and method evocation excercise. The original model presented uses getters and setters, but I chose to use a constructor to populate object atributes instead. 
-- SecondProject: An encapsulation excercise for the creation of a rectangle with private attributes and a public method that returns it's area after checking if width and height have valid values. Again, favoured the constructor instead of getters and setters. 
-- ThirdProject: An inheritance exercise which sees the creation of a 'student' class and a 'teacher' class inheriting a few attributes from the 'person' class. Also applies the concept of polimorphism, with different "presentation" methods for each child of 'person'.
-- FourthProject: An abstract class exercise. An abstract 'account' was created with an abstract 'withdraw' method, and standard 'deposit' and 'show balance' methods. Two classes inherit from this class, each with it's own withdraw method, with different fees.
-- FifthProject: A 'File', 'Directory' and 'Path' exercise. Includes directory and file listing, creation, reading, writing, moving, deleting, etc. Including 'writeall' and stream methods.
-- SixthProject: A constructor exercise (creating a singleton class with a private constructor).
+1. A_FirstProject: A simple object instanciation and method evocation excercise. The original model presented uses getters and setters, but I chose to use a constructor to populate object atributes instead. 
+2. B_SecondProject: An encapsulation excercise for the creation of a rectangle with private attributes and a public method that returns it's area after checking if width and height have valid values. Again, favoured the constructor instead of getters and setters. 
+3. C_ThirdProject: An inheritance exercise which sees the creation of a 'student' class and a 'teacher' class inheriting a few attributes from the 'person' class. Also applies the concept of polimorphism, with different "presentation" methods for each child of 'person'.
+4. D_FourthProject: An abstract class exercise. An abstract 'account' was created with an abstract 'withdraw' method, and standard 'deposit' and 'show balance' methods. Two classes inherit from this class, each with it's own withdraw method, with different fees.
+5. E_FifthProject: A 'File', 'Directory' and 'Path' exercise. Includes directory and file listing, creation, reading, writing, moving, deleting, etc. Including 'writeall' and stream methods.
+6. F_SixthProject: A constructor exercise (creating a singleton class with a private constructor), with getters and setters.
 
 ### Note to Self: Study 'Path.Combine' before using paths in the future.

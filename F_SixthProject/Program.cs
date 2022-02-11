@@ -8,6 +8,7 @@ namespace F_SixthProject{
 
             SingletonDummy singleton = SingletonDummy.GetSingletonDummy();
             singleton.DummyMethod();
+            singleton.DummyVar = "Hello There! Ah... General Kenobi!";
         }
 
     }

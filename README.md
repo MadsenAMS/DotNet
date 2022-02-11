@@ -23,5 +23,6 @@ A few .NET exercises using VisualCode for Digital Innovation One's "Object Orien
 4. D_FourthProject: An abstract class exercise. An abstract 'account' was created with an abstract 'withdraw' method, and standard 'deposit' and 'show balance' methods. Two classes inherit from this class, each with it's own withdraw method, with different fees.
 5. E_FifthProject: A 'File', 'Directory' and 'Path' exercise. Includes directory and file listing, creation, reading, writing, moving, deleting, etc. Including 'writeall' and stream methods.
 6. F_SixthProject: A constructor exercise (creating a singleton class with a private constructor), with getters and setters.
+7. G_SeventhProject: Delegate exercise using delegate to invoke methods from a calculator class. Also multicast delegate. Neat stuff.
 
 ### Note to Self: Study 'Path.Combine' before using paths in the future.
